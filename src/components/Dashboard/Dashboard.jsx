@@ -454,7 +454,6 @@ export default function CompletePortalSystem() {
           )}
         </div>
       </div>
-    );
           {currentPage === 'dashboard' && (
             <div className="p-8">
               <div className="grid grid-cols-2 gap-6">
